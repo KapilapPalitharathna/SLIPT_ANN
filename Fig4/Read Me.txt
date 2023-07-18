@@ -1,0 +1,14 @@
+1). There are 8 paths. (# of CU path = 4 and # of EU path = 4).
+
+2). Actual path and predicted path positions can be found in the Data Sets folder.
+
+3). Fig4.m file is used to plot the actual and predicted paths.
+
+4). Actual path positions are generated using the Python file called clothoid_model.
+
+5). Predicted paths are generated using the Python file called CODE_all.
+
+3). There is a high step resolution in the path prediction and hence, for one path position vector can be considered after 10-20 steps
+rather than, step by step if necessary.
+
+4). When plotting one step is selected after 20 steps to avoid clutter in plots.
